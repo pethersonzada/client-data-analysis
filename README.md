@@ -1,4 +1,4 @@
-Análise de Cancelamentos de Clientes
+## Análise de Cancelamentos de Clientes
 
 Este projeto visa identificar os principais motivos de cancelamento de clientes em uma empresa com mais de 800 mil clientes. A partir dessa análise, são propostas ações para reduzir a taxa de cancelamentos.
 
@@ -37,3 +37,7 @@ Etapas do Processo:
 
     Impacto das ações:
         Após aplicar as soluções propostas, a taxa de cancelamento foi reduzida de 56,7% para 18,4%.
+
+### Comentário!
+
+Este código foi comentado por mim durante todo o processo de desenvolvimento. Caso algum erro seja encontrado, peço desculpas, pois os comentários refletem apenas minha linha de raciocínio, com o objetivo de tornar o código o mais didático possível.
