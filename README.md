@@ -10,7 +10,7 @@ Bibliotecas usadas:
     nbformat e ipykernel: Suporte para notebooks Jupyter.
     plotly: Criação de gráficos interativos.
 
-Como usar:
+### Como usar:
 
 Instale as dependências necessárias:
 
@@ -19,7 +19,7 @@ Instale as dependências necessárias:
 Certifique-se de que o arquivo tabela_cancelamentos.csv está no diretório correto.
 Execute o script para analisar as causas dos cancelamentos e gerar gráficos.
 
-Etapas do Processo:
+### Etapas do Processo:
 
 Limpeza dos dados:
     
@@ -33,7 +33,7 @@ Análise de cancelamentos:
     
         Gráficos interativos são gerados para cada coluna, destacando a relação entre variáveis como duracao_contrato, ligacoes_callcenter e dias_atraso com o cancelamento.
 
-Soluções propostas:
+### Soluções propostas:
     
         Contrato mensal: Todos os clientes com contrato mensal cancelaram. Solução: oferecer descontos para planos anuais e trimestrais.
         Ligações ao call center: Clientes que ligaram mais de 4 vezes cancelaram. Solução: resolver problemas em no máximo 3 ligações.
