@@ -5,9 +5,13 @@ Este projeto visa identificar os principais motivos de cancelamento de clientes 
 Bibliotecas usadas:
 
     pandas: Manipulação de dados.
+    
     numpy: Suporte para operações matemáticas.
+    
     openpyxl: Leitura de arquivos Excel.
+    
     nbformat e ipykernel: Suporte para notebooks Jupyter.
+    
     plotly: Criação de gráficos interativos.
 
 ### Como usar:
@@ -36,7 +40,9 @@ Análise de cancelamentos:
 ### Soluções propostas:
     
         Contrato mensal: Todos os clientes com contrato mensal cancelaram. Solução: oferecer descontos para planos anuais e trimestrais.
+        
         Ligações ao call center: Clientes que ligaram mais de 4 vezes cancelaram. Solução: resolver problemas em no máximo 3 ligações.
+        
         Atraso de pagamento: Clientes que atrasaram mais de 20 dias cancelaram. Solução: política para resolver atrasos em até 10 dias.
 
 Impacto das ações:
@@ -46,14 +52,4 @@ Impacto das ações:
 ### Comentário!
 
 Este código foi comentado por mim durante todo o processo de desenvolvimento. Caso algum erro seja encontrado, peço desculpas, pois os comentários refletem apenas minha linha de raciocínio, com o objetivo de tornar o código o mais didático possível.
-
-## Aviso de Direitos Autorais
-
-Este código foi desenvolvido por Miguel Petherson e está protegido por direitos autorais. Ele não possui uma licença aberta, o que significa que:  
-
-- **Você não tem permissão para copiar, modificar ou redistribuir este código sem autorização prévia do autor.**
-- Caso queira usar este código para qualquer finalidade, entre em contato por email - pethersonzada@gmail.com  
-
-Por favor, respeite os direitos autorais e o trabalho investido neste projeto.  
-Agradeço pela compreensão! 😊
 
